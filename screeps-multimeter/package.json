@@ -1,0 +1,45 @@
+{
+  "name": "screeps-multimeter",
+  "version": "2.1.1",
+  "description": "The most useful tool on your screeps workbench.",
+  "main": "index.js",
+  "bin": {
+    "multimeter": "./bin/multimeter"
+  },
+  "scripts": {
+    "test": "mocha test/*",
+    "check-prettier": "prettier -l 'plugins/**/*.js' 'src/**/*.js' 'bin/multimeter'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CGamesPlay/screeps-multimeter.git"
+  },
+  "keywords": [
+    "screeps"
+  ],
+  "author": "Ryan Patterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CGamesPlay/screeps-multimeter/issues"
+  },
+  "homepage": "https://github.com/CGamesPlay/screeps-multimeter#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "dashdash": "^2.0.0",
+    "homedir": "^0.6.0",
+    "lodash": "^4.17.21",
+    "mz": "^2.6.0",
+    "parse5": "^6.0.1",
+    "printf": "^0.6.1",
+    "request": "^2.79.0",
+    "request-promise-native": "^1.0.3",
+    "require-relative": "^0.8.7",
+    "screeps-api": "^1.16.0",
+    "semver": "^5.3.0",
+    "yaml": "^2.0.0-5"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.3",
+    "mocha": "^8.4.0"
+  }
+}

@@ -1,0 +1,15 @@
+# Screeps code
+
+- https://github.com/Xalizar6/screeps-ai [dir](https://github.com/ornfelt/screeps/tree/master/screeps-ai)
+- https://github.com/pcarton/Screeps [dir](https://github.com/ornfelt/screeps/tree/master/Screeps)
+- https://github.com/tanjera/screeps [dir](https://github.com/ornfelt/screeps/tree/master/screeps_tanjera)
+- https://github.com/slothsoft/screeps-script [dir](https://github.com/ornfelt/screeps/tree/master/screeps-script)
+- https://github.com/screepers/screeps-snippets [dir](https://github.com/ornfelt/screeps/tree/master/screeps-snippets)
+- https://github.com/screepers/screeps-multimeter [dir](https://github.com/ornfelt/screeps/tree/master/screeps-multimeter)
+- https://github.com/rustyscreeps/screeps-starter-rust [dir](https://github.com/ornfelt/screeps/tree/master/screeps-starter-rust)
+- https://github.com/ScreepsQuorum/screeps-quorum [dir](https://github.com/ornfelt/screeps/tree/master/screeps-quorum)
+- https://github.com/screepers/screeps-typescript-starter [dir](https://github.com/ornfelt/screeps/tree/master/screeps-typescript-starter)
+- https://github.com/JonathanSafer/screeps [dir](https://github.com/ornfelt/screeps/tree/master/screeps_jonathan)
+- https://github.com/dominique-mueller/screeps-bot [dir](https://github.com/ornfelt/screeps/tree/master/screeps-bot)
+- https://github.com/bencbartlett/Overmind [dir](https://github.com/ornfelt/screeps/tree/master/Overmind)
+- https://github.com/TooAngel/screeps [dir](https://github.com/ornfelt/screeps/tree/master/screeps_angel)

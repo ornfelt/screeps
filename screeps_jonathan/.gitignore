@@ -1,0 +1,12 @@
+node_modules
+dist
+built
+.nyc_output
+package-lock.json
+
+.DS_Store
+*.zip
+.screeps-multimeter.history
+screeps-multimeter.json
+screeps.log
+.screeps.yml
