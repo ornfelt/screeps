@@ -1,0 +1,14 @@
+# src
+https://github.com/Xalizar6/screeps-ai
+https://github.com/pcarton/Screeps
+https://github.com/tanjera/screeps
+https://github.com/slothsoft/screeps-script
+https://github.com/screepers/screeps-snippets
+https://github.com/screepers/screeps-multimeter
+https://github.com/rustyscreeps/screeps-starter-rust
+https://github.com/ScreepsQuorum/screeps-quorum
+https://github.com/screepers/screeps-typescript-starter
+https://github.com/JonathanSafer/screeps
+https://github.com/dominique-mueller/screeps-bot
+https://github.com/bencbartlett/Overmind
+https://github.com/TooAngel/screeps
